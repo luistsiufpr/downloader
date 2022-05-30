@@ -9,5 +9,6 @@ Estão implementados (ainda que não tão bem testados)
 * Observer
 
 Faltam:
+* Tratamento de exceções
 * Histórico de downloads
 * Botão exibir mensagem
